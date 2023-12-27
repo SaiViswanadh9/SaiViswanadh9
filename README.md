@@ -1,6 +1,7 @@
 ### Hi there 👋
-<img align="right" scr="![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)" />
+
 <!--
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 **SaiViswanadh9/SaiViswanadh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
