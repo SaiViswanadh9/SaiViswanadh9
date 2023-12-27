@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="cneter" scr="![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)" />
+<img align="center" scr="![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)" />
 <!--
 **SaiViswanadh9/SaiViswanadh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
